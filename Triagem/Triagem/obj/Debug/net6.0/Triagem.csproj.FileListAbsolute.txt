@@ -1,0 +1,222 @@
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.deps.json
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.runtimeconfig.json
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.exe
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\appsettings.Development.json
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\appsettings.json
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.exe
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.deps.json
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.runtimeconfig.json
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.pdb
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Dapper.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.AspNetCore.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Sinks.File.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\System.Data.SqlClient.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\System.Text.Json.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.pdb
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.csproj.AssemblyReference.cache
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.GeneratedMSBuildEditorConfig.editorconfig
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.AssemblyInfoInputs.cache
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.AssemblyInfo.cs
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.csproj.CoreCompileInputs.cache
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.MvcApplicationPartsAssemblyInfo.cs
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.MvcApplicationPartsAssemblyInfo.cache
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.Triagem.Microsoft.AspNetCore.StaticWebAssets.props
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.build.Triagem.props
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Triagem.props
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Triagem.props
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets.pack.json
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets.build.json
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets.development.json
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\scopedcss\bundle\Triagem.styles.css
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.csproj.CopyComplete
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\refint\Triagem.dll
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.pdb
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.genruntimeconfig.cache
+I:\Fontes\Web\RECURSOS - GR\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\ref\Triagem.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\appsettings.Development.json
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\appsettings.json
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.deps.json
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.runtimeconfig.json
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.exe
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.exe
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.deps.json
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.runtimeconfig.json
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.pdb
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Dapper.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\System.Text.Json.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.pdb
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.csproj.AssemblyReference.cache
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.AssemblyInfoInputs.cache
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.AssemblyInfo.cs
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.csproj.CoreCompileInputs.cache
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.MvcApplicationPartsAssemblyInfo.cs
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.MvcApplicationPartsAssemblyInfo.cache
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.Triagem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.build.Triagem.props
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Triagem.props
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Triagem.props
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets.pack.json
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets.build.json
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets.development.json
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\scopedcss\bundle\Triagem.styles.css
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.csproj.CopyComplete
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\refint\Triagem.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.pdb
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.genruntimeconfig.cache
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\ref\Triagem.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.deps.json
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.runtimeconfig.json
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.exe
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\appsettings.Development.json
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\appsettings.json
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.exe
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.deps.json
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.runtimeconfig.json
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Triagem.pdb
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Dapper.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.AspNetCore.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Serilog.Sinks.File.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\System.Data.SqlClient.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\System.Text.Json.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.pdb
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.csproj.AssemblyReference.cache
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.GeneratedMSBuildEditorConfig.editorconfig
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.AssemblyInfoInputs.cache
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.AssemblyInfo.cs
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.csproj.CoreCompileInputs.cache
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.MvcApplicationPartsAssemblyInfo.cs
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.MvcApplicationPartsAssemblyInfo.cache
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.Triagem.Microsoft.AspNetCore.StaticWebAssets.props
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.build.Triagem.props
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Triagem.props
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Triagem.props
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets.pack.json
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets.build.json
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets.development.json
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\scopedcss\bundle\Triagem.styles.css
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.csproj.CopyComplete
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\refint\Triagem.dll
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.pdb
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.genruntimeconfig.cache
+U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\ref\Triagem.dll

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "a9+FHc/TmcKb/wm2L3rsOGmKL4aShpRJGZ6XBOEApoY=",
+  "Source": "Triagem",
+  "BasePath": "_content/Triagem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "U:\\Programação C# .net\\PROJETOS ATUALIZADOS\\ProtocoloWEB\\Autenticacao\\Autenticacao\\Autenticacao.csproj",
+      "Version": 2,
+      "Source": "Autenticacao",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
