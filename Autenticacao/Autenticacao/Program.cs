@@ -14,7 +14,7 @@ builder.Services.AddControllers();
 
 builder.Services.AddSingleton<DapperContext>();
 builder.Services.AddScoped<IAutenticacaoRepository, AutenticacaoRepository>();
-
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 
 var jwtKey = builder.Configuration["Jwt:Key"];
 builder.Services.AddJwtAuthentication(jwtKey);

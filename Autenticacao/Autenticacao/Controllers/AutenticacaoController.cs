@@ -14,10 +14,8 @@ namespace Autenticacao.Controllers
         private readonly IAutenticacaoRepository _autenticacao;
    
         public AutenticacaoController(IConfiguration configuration, IAutenticacaoRepository autenticacaoServices)
-        {
-           
-            _autenticacao = autenticacaoServices;
-    
+        {           
+            _autenticacao = autenticacaoServices;    
         }
 
 

@@ -24,18 +24,18 @@ namespace Autenticacao.Services.Repository
         public AutenticacaoModel AutenticarUsuario(string AutEmail, string AutSenha)
         {
            
-                using (var connection = _context.CreateConnection())
+            using (var connection = _context.CreateConnection())
+            {
+                var parametros = new
                 {
-                    var parametros = new
-                    {
-                        AutEmail,
-                        AutSenha
-                    };
+                    AutEmail,
+                    AutSenha
+                };
 
-                    var model =  connection.QueryFirstOrDefault<AutenticacaoModel>("Stb_APIAutenticacao", parametros, commandType: CommandType.StoredProcedure);
+                var model =  connection.QueryFirstOrDefault<AutenticacaoModel>("Stb_APIAutenticacao", parametros, commandType: CommandType.StoredProcedure);
 
-                    return model;
-                }
+                return model;
+            }
             
         }
 

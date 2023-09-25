@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "a9+FHc/TmcKb/wm2L3rsOGmKL4aShpRJGZ6XBOEApoY=",
+  "Hash": "YeEm09bYYQTTVbbDPH7GN4h9HVqW2r4vhoBj0RKoT58=",
   "Source": "Triagem",
   "BasePath": "_content/Triagem",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "U:\\Programação C# .net\\PROJETOS ATUALIZADOS\\ProtocoloWEB\\Autenticacao\\Autenticacao\\Autenticacao.csproj",
+      "Identity": "E:\\PROJETOS WEB RECURSOS\\PROTOCOLOWEB\\Servicos\\ProtocoloWEB\\Autenticacao\\Autenticacao\\Autenticacao.csproj",
       "Version": 2,
       "Source": "Autenticacao",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
