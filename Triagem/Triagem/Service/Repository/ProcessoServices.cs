@@ -2,16 +2,11 @@
 using Triagem.DBContext;
 using Triagem.Model;
 using Triagem.Service.IRepository;
-using System.Data;
-using System.Diagnostics;
-using System.Drawing;
-using System.Transactions;
 
 namespace Triagem.Service.Repositoty
 {
     public class ProcessoServices : IProcessoServices
     {
-
         private readonly DapperContext _context;
 
         public ProcessoServices(DapperContext context) => _context = context;
@@ -25,8 +20,10 @@ namespace Triagem.Service.Repositoty
                         select Prtdoc_prt_numero, 
 	                           Prtdoc_imagem, 
 	                           Doc_nome 
-                          from [IntegrarProcessoProtocolo] inner join GR_Protocolo_BASalvador.dbo.Protocolo_Documento_Imagem on(Ipp_NumeroProtocolo = PrtDoc_Prt_Numero) inner join [GR_Protocolo_BASalvador].dbo.Documento on (PRTDOC_DOC_ID = DOC_ID)
-                             where PRTDOC_PRT_SETOR = 92 and  Ipp_Pro_Id = @id";
+                          from IntegrarProcessoProtocolo inner join 
+                               GR_Protocolo_BASalvador.dbo.Protocolo_Documento_Imagem on (Ipp_NumeroProtocolo = PrtDoc_Prt_Numero) inner join [GR_Protocolo_BASalvador].dbo.Documento on (PRTDOC_DOC_ID = DOC_ID)
+                         where PRTDOC_PRT_SETOR = 92 and  
+                               Ipp_Pro_Id = @id ";
 
                 using (var connection = _context.CreateConnection())
                 {

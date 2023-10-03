@@ -4,6 +4,7 @@
     {
         public int AutId { get; set; }
         public string? autNome { get; set; }
+        public string? AutUsuario { get; set; }
         public string? autEmail { get; set; }
         public string? autSenha { get; set; }
         public string? autRole { get; set; }

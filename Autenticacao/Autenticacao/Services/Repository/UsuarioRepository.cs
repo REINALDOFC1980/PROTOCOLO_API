@@ -49,9 +49,10 @@ namespace Autenticacao.Services.Repository
             using (var connection = _context.CreateConnection())
             {
                 var parametros = new { id };
-                var command =  await connection.QueryFirstAsync<UsuarioModel>(query,parametros);
 
-                return command;
+                var command =  connection.Query<UsuarioModel>(query, parametros);
+
+                return command.SingleOrDefault(); 
             }
         }
      

@@ -16,7 +16,7 @@ namespace Triagem.Controllers
         public TriagemController(IProcessoServices services) => _service = services;
 
         [HttpGet("buscarprocessoAll/{usuario}/{situacao}")]
-        [CustomAuthorize("Administrador, Triagem")]
+        [CustomAuthorize("Administrador", "Triagem")]
         public async Task<IActionResult> BuscarProcessoAll(string usuario, string situacao)
         {
             try
@@ -38,7 +38,7 @@ namespace Triagem.Controllers
 
    
         [HttpGet("buscarquantidadeprocessos/{usuario}")]
-        [CustomAuthorize("Administrador, Triagem")]
+        [CustomAuthorize("Administrador", "Triagem")]
         public async Task<IActionResult> BuscarQuantidadeProcessos(string usuario)
         {
             try
@@ -61,7 +61,7 @@ namespace Triagem.Controllers
 
 
         [HttpGet("buscarprocessosId/{id}")]
-        [CustomAuthorize("Administrador, Triagem")]
+        [CustomAuthorize("Administrador", "Triagem")]
         public async Task<IActionResult> BuscarProcessosId(int id)
         {
             try
@@ -83,7 +83,7 @@ namespace Triagem.Controllers
 
 
         [HttpGet("buscardocumentosanexado/{id}")]
-        [CustomAuthorize("Administrador, Triagem")]
+        [CustomAuthorize("Administrador", "Triagem")]
         public async Task<IActionResult> BuscarDocumentosAnexado(int id)
         {
             try
@@ -106,7 +106,7 @@ namespace Triagem.Controllers
       
        
         [HttpPost("inserirresultado")]
-        [CustomAuthorize("Administrador, Triagem")]
+        [CustomAuthorize("Administrador", "Triagem")]
         public async Task<IActionResult> InserirResultado(TriagemProcessoModel triagemProcesso)
         {
             try
@@ -125,7 +125,7 @@ namespace Triagem.Controllers
 
       
         [HttpGet("buscarmotivoscancelamento")]
-        [CustomAuthorize("Administrador, Triagem")]
+        [CustomAuthorize("Administrador", "Triagem")]
         public async Task<IActionResult> BuscarMotivoCancelamento()
         {
             try
@@ -148,7 +148,7 @@ namespace Triagem.Controllers
 
 
         [HttpPost("inserirmotivoreprovacao")]
-        [CustomAuthorize("Administrador, Triagem")]
+        [CustomAuthorize("Administrador", "Triagem")]
         public async Task<IActionResult> InserirMotivoReprovacao(MotivoCancelamentoModel motivoCancelamento)
         {
             try
@@ -164,14 +164,14 @@ namespace Triagem.Controllers
 
     
         [HttpGet("buscamotivoscancelamentoprocesso/{id}")]
-        [CustomAuthorize("Administrador, Triagem")]
+        [CustomAuthorize("Administrador", "Triagem")]
         public async Task<IActionResult> BuscarMotivoCancelamentoprocesso(int id)
         {
             try
             {
                 var motivos = await _service.BuscarMotivoCancelamentoProcesso(id);
 
-                if (motivos == null)
+                if (motivos.Count == 0)
                 {
                     return BadRequest(new { erro = 400, mensagem = "Não existe dados para essa pesquisa" });
                 }
@@ -187,7 +187,7 @@ namespace Triagem.Controllers
 
 
         [HttpDelete("deletemotivoprocesso/{id}")]
-        [CustomAuthorize("Administrador, Triagem")]
+        [CustomAuthorize("Administrador", "Triagem")]
         public async Task<IActionResult> DeleteMotivoProcesso(int id)
         {
             try

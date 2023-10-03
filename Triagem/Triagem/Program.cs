@@ -8,17 +8,19 @@ using Triagem.Service.Repositoty;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
 
 builder.Services.AddSingleton<DapperContext>();
 builder.Services.AddScoped<IProcessoServices, ProcessoServices>();
+builder.Services.AddScoped<IRedistribuicaoRepository, RedistribuicaoRepository>();
+
 
 
 ///JWT
-
 var jwtKey = builder.Configuration["Jwt:Key"];
 builder.Services.AddJwtAuthentication(jwtKey);
+
+
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
