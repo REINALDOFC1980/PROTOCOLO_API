@@ -11,10 +11,7 @@
           "Autenticacao": "1.0.0",
           "Dapper": "2.0.143",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.0",
-          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
-          "Serilog.AspNetCore": "7.0.0",
-          "Swashbuckle.AspNetCore": "6.2.3",
-          "System.Data.SqlClient": "4.8.5"
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.17.2"
         },
         "runtime": {
           "Triagem.dll": {}

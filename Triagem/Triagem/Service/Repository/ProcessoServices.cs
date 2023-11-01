@@ -1,7 +1,8 @@
 ﻿using Dapper;
-using Triagem.DBContext;
+
 using Triagem.Model;
 using Triagem.Service.IRepository;
+using Triagem.DBContext;
 
 namespace Triagem.Service.Repositoty
 {
@@ -9,7 +10,10 @@ namespace Triagem.Service.Repositoty
     {
         private readonly DapperContext _context;
 
-        public ProcessoServices(DapperContext context) => _context = context;
+        public ProcessoServices(DapperContext context)
+        {
+            _context = context;
+        }      
 
         public Task<List<AnexoModel>> BuscarDocumentosAnexado(int id)
         {
@@ -25,8 +29,9 @@ namespace Triagem.Service.Repositoty
                          where PRTDOC_PRT_SETOR = 92 and  
                                Ipp_Pro_Id = @id ";
 
-                using (var connection = _context.CreateConnection())
-                {
+
+            using (var connection =  _context.CreateConnection())
+            {
                     var parametros = new { id };
                     var command = connection.Query<AnexoModel>(query, parametros);
 
@@ -87,8 +92,8 @@ namespace Triagem.Service.Repositoty
                             ORDER BY Processo.Pro_Id desc";
 
 
-                using (var connection = _context.CreateConnection())
-                {
+            using (var connection = _context.CreateConnection())
+            {
                     var parametros = new { usuario, situacao };
 
                     var command = connection.Query<ProcessoModel, MultasModel, VeiculoModel, CondutorModel, RequerenteModel, ProcessoModel>(
@@ -186,7 +191,7 @@ namespace Triagem.Service.Repositoty
                              where pro_id = @id ";
 
 
-                using (var connection = _context.CreateConnection())
+               using (var connection = _context.CreateConnection())
                 {
                     var parametros = new { id };
 
@@ -255,7 +260,7 @@ namespace Triagem.Service.Repositoty
                         COUNT(*) AS Total
                     FROM Categorias C";
 
-                using (var connection = _context.CreateConnection())
+               using (var connection = _context.CreateConnection())
                 {
                     var parametros = new { usuario };
                     var command = connection.Query<QuantidadeProcessoModel>(query, parametros);
@@ -265,7 +270,7 @@ namespace Triagem.Service.Repositoty
 
         public async Task InserirResultado(TriagemProcessoModel triagemProcesso)
         {
-            using (var connection = _context.CreateConnection())
+           using (var connection = _context.CreateConnection())
             {
                 connection.Open();
 
@@ -327,7 +332,7 @@ namespace Triagem.Service.Repositoty
           
             var query = @"Select Canc_Id, Canc_Nome from GR_Protocolo_BASalvador.dbo.MotivoCancelamento order by Canc_Nome ";
 
-            using (var connection = _context.CreateConnection())
+           using (var connection = _context.CreateConnection())
             {
                 var command = connection.Query<MotivoCancelamentoModel>(query);
 
@@ -354,7 +359,7 @@ namespace Triagem.Service.Repositoty
                                             MotTgm_Temp_CANC_ID = @Canc_Id
                                 );";
 
-            using (var connection = _context.CreateConnection())
+           using (var connection = _context.CreateConnection())
             {
                 await connection.ExecuteAsync(insertQueryMotivo, new
                 {
@@ -379,7 +384,7 @@ namespace Triagem.Service.Repositoty
                                where MotTgm_Temp_Pro_Id = @id
                                      order by Canc_Nome";
 
-                using (var connection = _context.CreateConnection())
+               using (var connection = _context.CreateConnection())
                 {
                     var parametros = new { id };
                     var command = connection.Query<MotivoCancelamentoModel>(query , parametros);
@@ -395,7 +400,7 @@ namespace Triagem.Service.Repositoty
                                        Delete From MotivosTriagem_Temporaria where MotTgm_Temp_CANC_ID = @id    
                                     ";
 
-            using (var connection = _context.CreateConnection())
+           using (var connection = _context.CreateConnection())
             {
                 await connection.ExecuteAsync(DeleteQueryMotivo, new{id});
             }

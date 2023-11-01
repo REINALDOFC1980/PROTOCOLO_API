@@ -339,12 +339,10 @@
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
         "type": "package",
         "build": {
-          "build/Microsoft.Extensions.ApiDescription.Server.props": {},
-          "build/Microsoft.Extensions.ApiDescription.Server.targets": {}
+          "build/_._": {}
         },
         "buildMultiTargeting": {
-          "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.props": {},
-          "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets": {}
+          "buildMultiTargeting/_._": {}
         }
       },
       "Microsoft.Extensions.Configuration.Abstractions/7.0.0": {
@@ -693,7 +691,8 @@
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.17.2": {
         "type": "package",
         "build": {
-          "build/_._": {}
+          "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props": {},
+          "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets": {}
         }
       },
       "Microsoft.Win32.Registry/4.7.0": {
@@ -926,7 +925,7 @@
           "Swashbuckle.AspNetCore.SwaggerUI": "6.2.3"
         },
         "build": {
-          "build/Swashbuckle.AspNetCore.props": {}
+          "build/_._": {}
         }
       },
       "Swashbuckle.AspNetCore.Swagger/6.2.3": {
@@ -3023,10 +3022,7 @@
       "Autenticacao >= 1.0.0",
       "Dapper >= 2.0.143",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.0",
-      "Microsoft.AspNetCore.Mvc.Core >= 2.2.5",
-      "Serilog.AspNetCore >= 7.0.0",
-      "Swashbuckle.AspNetCore >= 6.2.3",
-      "System.Data.SqlClient >= 4.8.5"
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.17.2"
     ]
   },
   "packageFolders": {
@@ -3080,21 +3076,9 @@
             "target": "Package",
             "version": "[6.0.0, )"
           },
-          "Microsoft.AspNetCore.Mvc.Core": {
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
             "target": "Package",
-            "version": "[2.2.5, )"
-          },
-          "Serilog.AspNetCore": {
-            "target": "Package",
-            "version": "[7.0.0, )"
-          },
-          "Swashbuckle.AspNetCore": {
-            "target": "Package",
-            "version": "[6.2.3, )"
-          },
-          "System.Data.SqlClient": {
-            "target": "Package",
-            "version": "[4.8.5, )"
+            "version": "[1.17.2, )"
           }
         },
         "imports": [

@@ -16,7 +16,7 @@ namespace Triagem.Controllers
 
 
         [HttpGet("localizarprocessos")]
-        [CustomAuthorize("Administrador")]
+        [CustomAuthorizeAttribute("Administrador")]
         public async Task<IActionResult> LocalizarProcessos()
         {
             try
@@ -25,7 +25,7 @@ namespace Triagem.Controllers
 
                 if (usuario == null)
                 {
-                    return BadRequest(new { erro = 400, mensagem = "Não existe dados para essa pesquisa" });
+                    return BadRequest(new { erro = 400, message = "Não existe dados para essa pesquisa" });
                 }
 
                 return Ok(usuario);
@@ -39,7 +39,7 @@ namespace Triagem.Controllers
 
 
         [HttpPost("redistribuir")]
-        [CustomAuthorize("Administrador")]
+        [CustomAuthorizeAttribute("Administrador")]
         public async Task<IActionResult> Redistribuir(string usuarioorigem, string usuariodestino, int quantidade)
         {
             try
@@ -47,14 +47,13 @@ namespace Triagem.Controllers
                 await _service.RedistribuicaoProcesso(usuarioorigem, usuariodestino, quantidade);
                 Log.Information("Usuário fez uma inserção de resultado com sucesso: {Usuario}", usuarioorigem);
 
-                return Created(string.Empty, "Redistribuição realizar com sucesso."); // Retornar 201 Created com mensagem
+                return Created(string.Empty, "Redistribuição realizar com sucesso."); // Retornar 201 Created com message
             }
             catch (Exception ex)
             {
                 throw;
             }
         }
-
 
 
     }

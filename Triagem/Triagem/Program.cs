@@ -1,26 +1,24 @@
-using Microsoft.OpenApi.Models;
 using Triagem.DBContext;
+using Microsoft.Extensions.Configuration;
+using Microsoft.OpenApi.Models;
 using System.Reflection;
 using Triagem.Service.IRepository;
 using Triagem.Service.Repositoty;
 
-
 var builder = WebApplication.CreateBuilder(args);
+
 
 // Add services to the container.
 builder.Services.AddControllers();
 
+// Configuração do contexto de banco de dados da primeira API
 builder.Services.AddSingleton<DapperContext>();
 builder.Services.AddScoped<IProcessoServices, ProcessoServices>();
 builder.Services.AddScoped<IRedistribuicaoRepository, RedistribuicaoRepository>();
 
-
-
-///JWT
+/// JWT
 var jwtKey = builder.Configuration["Jwt:Key"];
 builder.Services.AddJwtAuthentication(jwtKey);
-
-
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -42,11 +40,6 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -58,11 +51,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-
-
 app.UseAuthentication();
 app.UseAuthorization();
-
 app.UseMiddleware<TryCatchMiddleware>();
 
 app.MapControllers();

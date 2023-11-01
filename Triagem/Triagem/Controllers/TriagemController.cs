@@ -16,16 +16,16 @@ namespace Triagem.Controllers
         public TriagemController(IProcessoServices services) => _service = services;
 
         [HttpGet("buscarprocessoAll/{usuario}/{situacao}")]
-        [CustomAuthorize("Administrador", "Triagem")]
+        [CustomAuthorizeAttribute ("Administrador", "Triagem")]
         public async Task<IActionResult> BuscarProcessoAll(string usuario, string situacao)
         {
             try
             {
                 var processo = await _service.BuscarProcessoAll(usuario, situacao);
 
-                if (processo == null)
+                if (processo.Count == 0)
                 {
-                    return BadRequest(new { erro = 400, mensagem = "Não existe dados para essa pesquisa" });
+                    return BadRequest(new { erro = 400, message = "Não existe dados para essa pesquisa" });
                 }
 
                 return Ok(processo);
@@ -38,7 +38,7 @@ namespace Triagem.Controllers
 
    
         [HttpGet("buscarquantidadeprocessos/{usuario}")]
-        [CustomAuthorize("Administrador", "Triagem")]
+        [CustomAuthorizeAttribute("Administrador", "Triagem")]
         public async Task<IActionResult> BuscarQuantidadeProcessos(string usuario)
         {
             try
@@ -47,7 +47,7 @@ namespace Triagem.Controllers
                
                 if (qtdprocesso == null)
                 {
-                    return BadRequest(new { erro = 400, mensagem = "Não existe dados para essa pesquisa" });
+                    return BadRequest(new { erro = 400, message = "Não existe dados para essa pesquisa" });
                 }
 
                 return Ok(qtdprocesso);
@@ -61,7 +61,7 @@ namespace Triagem.Controllers
 
 
         [HttpGet("buscarprocessosId/{id}")]
-        [CustomAuthorize("Administrador", "Triagem")]
+        [CustomAuthorizeAttribute("Administrador", "Triagem")]
         public async Task<IActionResult> BuscarProcessosId(int id)
         {
             try
@@ -70,7 +70,7 @@ namespace Triagem.Controllers
 
                 if (processo == null)
                 {
-                    return BadRequest(new { erro = 400, mensagem = "Não existe dados para essa pesquisa" });
+                    return BadRequest(new { erro = 400, message = "Não existe dados para essa pesquisa" });
                 }
 
                 return Ok(processo);
@@ -83,7 +83,7 @@ namespace Triagem.Controllers
 
 
         [HttpGet("buscardocumentosanexado/{id}")]
-        [CustomAuthorize("Administrador", "Triagem")]
+        [CustomAuthorizeAttribute("Administrador", "Triagem")]
         public async Task<IActionResult> BuscarDocumentosAnexado(int id)
         {
             try
@@ -92,7 +92,7 @@ namespace Triagem.Controllers
 
                 if (anexoprocesso == null)
                 {
-                    return BadRequest(new { erro = 400, mensagem = "Não existe dados para essa pesquisa" });
+                    return BadRequest(new { erro = 400, message = "Não existe dados para essa pesquisa" });
                 }
 
                 return Ok(anexoprocesso);
@@ -106,7 +106,7 @@ namespace Triagem.Controllers
       
        
         [HttpPost("inserirresultado")]
-        [CustomAuthorize("Administrador", "Triagem")]
+        [CustomAuthorizeAttribute("Administrador", "Triagem")]
         public async Task<IActionResult> InserirResultado(TriagemProcessoModel triagemProcesso)
         {
             try
@@ -114,7 +114,7 @@ namespace Triagem.Controllers
                 await _service.InserirResultado(triagemProcesso);
                 Log.Information("Usuário fez uma inserção de resultado com sucesso: {Usuario}", triagemProcesso.Tgm_Pro_Id);
 
-                return Created(string.Empty, "Historico do processo inserida com sucesso."); // Retornar 201 Created com mensagem
+                return Created(string.Empty, "Historico do processo inserida com sucesso."); // Retornar 201 Created com message
             }
             catch (Exception ex)
             {
@@ -125,7 +125,7 @@ namespace Triagem.Controllers
 
       
         [HttpGet("buscarmotivoscancelamento")]
-        [CustomAuthorize("Administrador", "Triagem")]
+        [CustomAuthorizeAttribute("Administrador", "Triagem")]
         public async Task<IActionResult> BuscarMotivoCancelamento()
         {
             try
@@ -134,7 +134,7 @@ namespace Triagem.Controllers
 
                 if (motivos == null)
                 {
-                    return BadRequest(new { erro = 400, mensagem = "Não existe dados para essa pesquisa" });
+                    return BadRequest(new { erro = 400, message = "Não existe dados para essa pesquisa" });
                 }
 
                 return Ok(motivos);
@@ -148,13 +148,13 @@ namespace Triagem.Controllers
 
 
         [HttpPost("inserirmotivoreprovacao")]
-        [CustomAuthorize("Administrador", "Triagem")]
+        [CustomAuthorizeAttribute("Administrador", "Triagem")]
         public async Task<IActionResult> InserirMotivoReprovacao(MotivoCancelamentoModel motivoCancelamento)
         {
             try
             {
                 await _service.InserirMotivoReprovacao(motivoCancelamento);
-                return Created(string.Empty, "Motivo inserida com sucesso."); // Retornar 201 Created com mensagem
+                return Created(string.Empty, "Motivo inserida com sucesso."); // Retornar 201 Created com message
             }
             catch (Exception ex)
             {
@@ -164,7 +164,7 @@ namespace Triagem.Controllers
 
     
         [HttpGet("buscamotivoscancelamentoprocesso/{id}")]
-        [CustomAuthorize("Administrador", "Triagem")]
+        [CustomAuthorizeAttribute("Administrador", "Triagem")]
         public async Task<IActionResult> BuscarMotivoCancelamentoprocesso(int id)
         {
             try
@@ -173,7 +173,7 @@ namespace Triagem.Controllers
 
                 if (motivos.Count == 0)
                 {
-                    return BadRequest(new { erro = 400, mensagem = "Não existe dados para essa pesquisa" });
+                    return BadRequest(new { erro = 400, message = "Não existe dados para essa pesquisa" });
                 }
 
                 return Ok(motivos);
@@ -187,7 +187,7 @@ namespace Triagem.Controllers
 
 
         [HttpDelete("deletemotivoprocesso/{id}")]
-        [CustomAuthorize("Administrador", "Triagem")]
+        [CustomAuthorizeAttribute("Administrador", "Triagem")]
         public async Task<IActionResult> DeleteMotivoProcesso(int id)
         {
             try

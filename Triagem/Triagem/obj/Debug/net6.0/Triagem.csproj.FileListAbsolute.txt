@@ -146,6 +146,12 @@ U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\D
 U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.pdb
 U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.genruntimeconfig.cache
 U:\Programação C# .net\PROJETOS ATUALIZADOS\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\ref\Triagem.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.csproj.AssemblyReference.cache
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.AssemblyInfoInputs.cache
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.AssemblyInfo.cs
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.csproj.CoreCompileInputs.cache
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.MvcApplicationPartsAssemblyInfo.cache
 E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.deps.json
 E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.runtimeconfig.json
 E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.exe
@@ -199,13 +205,6 @@ E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\
 E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.dll
 E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\bin\Debug\net6.0\Autenticacao.pdb
-E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.csproj.AssemblyReference.cache
-E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.GeneratedMSBuildEditorConfig.editorconfig
-E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.AssemblyInfoInputs.cache
-E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.AssemblyInfo.cs
-E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.csproj.CoreCompileInputs.cache
-E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.MvcApplicationPartsAssemblyInfo.cs
-E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.MvcApplicationPartsAssemblyInfo.cache
 E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.Triagem.Microsoft.AspNetCore.StaticWebAssets.props
 E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.build.Triagem.props
 E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Triagem.props
@@ -220,3 +219,4 @@ E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\
 E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.pdb
 E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.genruntimeconfig.cache
 E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\ref\Triagem.dll
+E:\PROJETOS WEB RECURSOS\PROTOCOLOWEB\Servicos\ProtocoloWEB\Triagem\Triagem\obj\Debug\net6.0\Triagem.MvcApplicationPartsAssemblyInfo.cs
